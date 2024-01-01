@@ -8,7 +8,7 @@ I'm a passionate and curious student at Arizona State University, where I'm honi
 
 * 🌍  I'm based in Phoenix, Arizona, United States
 * ✉️  You can contact me at [ehof17@gmail.com](mailto:ehof17@gmail.com)
-* 🚀  I'm currently working on [Elite Snake](http://23.239.5.150:3000/)
+* 🚀  I'm currently working on [a multiplayer game involving snakes and portals](http://23.239.5.150:3000/)
 
 ### Skills
 
