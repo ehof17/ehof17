@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Elijah Hoffman
 ======================================================================================================================================
 
-Software Engineer
+Software Developer Intern @ [Sandhills Global](https://www.sandhills.com/)
 -----------------
 
 I'm a passionate and curious student at Arizona State University, where I'm honing my skills in software development and computer science.
@@ -9,6 +9,7 @@ I'm a passionate and curious student at Arizona State University, where I'm honi
 * 🌍  I'm based in Phoenix, Arizona, United States
 * ✉️  You can contact me at [ehof17@gmail.com](mailto:ehof17@gmail.com)
 * 🚀  I'm currently working on [a multiplayer game involving snakes and portals](http://23.239.5.150:3000/)
+
 
 ### Skills
 
